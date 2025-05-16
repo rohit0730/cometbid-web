@@ -11,7 +11,8 @@
   --button: #076BB6;
   --lightBackground: #F1F5EB;
   --lightTitle: #727272;
-  --orangeColor: #EEA236
+  --orangeColor: #EEA236;
+  --borderColor: #cccccc;
 }
 
 /* @media (prefers-color-scheme: dark) {
@@ -1454,5 +1455,5 @@ h2.hero-title {
 .page-description p {
   color: var(--lightTitle);
   line-height: 30px;
-  margin-bottom: 0px;
+  font-size: 14px;
 }
