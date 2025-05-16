@@ -171,3 +171,53 @@
     font-weight: bold;
     margin-bottom: 0px;
 }
+
+.logo-artwork-card {
+    padding: 24px 12px;
+    border:  1px solid var(--borderColor);
+    border-radius: 12px;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    margin-bottom: 16px;
+}
+
+.logo-artwork-card:hover {
+    transform: scale(1.05);
+}
+
+.logo-artwork-card-icon {
+    background-color: #DEDEDE;
+    width: 100%;
+    height: 170px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 16px;
+    border-radius: 12px;
+    padding: 16px;
+}
+
+.logo-artwork-card-icon img {
+    width: 100%;
+    height: auto;
+}
+
+.logo-artwork-card-content h3 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.logo-artwork-card-content p {
+    font-size: 14px;
+    color: var(--lightTitle);
+    margin-bottom: 20px;
+}
+
+.logo-artwork-card-content a {
+    background-color: var(--button);
+    color: var(--background);
+    padding: 10px 16px;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: 600;
+}
