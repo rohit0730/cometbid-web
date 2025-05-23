@@ -292,7 +292,7 @@ const Header = () => {
                             { name: "Press Releases", link: "/resources/press-releases" },
                             { name: "Careers", link: "/about/careers" },
                             { name: "Logos & Artwork", link: "/about/logos-artwork" },
-                            { name: "Contact Us", link: "/about/contact-us" }
+                            { name: "Contact Us", link: "/contact-us" }
                         ]
                     }
                 ])}

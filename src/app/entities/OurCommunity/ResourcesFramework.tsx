@@ -73,7 +73,7 @@ const ResourcrsFramework = () => {
                         <div className="col-lg-9">
                             <div className="sec-header mb-5">
                                 <div className="page-title">
-                                    <h2>Eclipse Foundation Legal Resources</h2>
+                                    <h2>CometBid Foundation Legal Resources</h2>
                                 </div>
                                 <p>{"The CometBid Foundation provides four key services to the CometBid community: 1) IP Management, 2) Ecosystem Development and Marketing, 3) Development Process, and 4) IT Infrastructure. Full-time staff are associated with each of these areas and work with the greater CometBid community to assist in meeting the needs of stakeholders."}</p>
                                 <ul className="url-list">

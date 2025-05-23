@@ -23,7 +23,7 @@ const projects = [
     {
         id: 1,
         title: "Serverless Image Processor",
-        description: "The Eclipse Safe Open Vehicle Core project aims to develop an open-source core stack for Software Defined Vehicles (SDVs), specifically targeting embedded high-performance Electronic Control Units (ECUs).",
+        description: "The CometBid Safe Open Vehicle Core project aims to develop an open-source core stack for Software Defined Vehicles (SDVs), specifically targeting embedded high-performance Electronic Control Units (ECUs).",
         date: "24th October 2024",
         plan: "Monthly",
         tags: ["AWS", "Azure", "Oracle"],
@@ -33,7 +33,7 @@ const projects = [
     {
         id: 2,
         title: "Serverless Image Processor",
-        description: "The Eclipse Safe Open Vehicle Core project aims to develop an open-source core stack for Software Defined Vehicles (SDVs), specifically targeting embedded high-performance Electronic Control Units (ECUs).",
+        description: "The CometBid Safe Open Vehicle Core project aims to develop an open-source core stack for Software Defined Vehicles (SDVs), specifically targeting embedded high-performance Electronic Control Units (ECUs).",
         date: "24th October 2024",
         plan: "Monthly",
         tags: ["AWS", "Azure", "Oracle"],
@@ -43,7 +43,7 @@ const projects = [
     {
         id: 3,
         title: "Serverless Image Processor",
-        description: "The Eclipse Safe Open Vehicle Core project aims to develop an open-source core stack for Software Defined Vehicles (SDVs), specifically targeting embedded high-performance Electronic Control Units (ECUs).",
+        description: "The CometBid Safe Open Vehicle Core project aims to develop an open-source core stack for Software Defined Vehicles (SDVs), specifically targeting embedded high-performance Electronic Control Units (ECUs).",
         date: "24th October 2024",
         plan: "Monthly",
         tags: ["AWS", "Azure", "Oracle"],
@@ -53,7 +53,7 @@ const projects = [
     {
         id: 4,
         title: "Serverless Image Processor",
-        description: "The Eclipse Safe Open Vehicle Core project aims to develop an open-source core stack for Software Defined Vehicles (SDVs), specifically targeting embedded high-performance Electronic Control Units (ECUs).",
+        description: "The CometBid Safe Open Vehicle Core project aims to develop an open-source core stack for Software Defined Vehicles (SDVs), specifically targeting embedded high-performance Electronic Control Units (ECUs).",
         date: "24th October 2024",
         plan: "Monthly",
         tags: ["AWS", "Azure", "Oracle"],
@@ -63,7 +63,7 @@ const projects = [
     {
         id: 5,
         title: "Serverless Image Processor",
-        description: "The Eclipse Safe Open Vehicle Core project aims to develop an open-source core stack for Software Defined Vehicles (SDVs), specifically targeting embedded high-performance Electronic Control Units (ECUs).",
+        description: "The CometBid Safe Open Vehicle Core project aims to develop an open-source core stack for Software Defined Vehicles (SDVs), specifically targeting embedded high-performance Electronic Control Units (ECUs).",
         date: "24th October 2024",
         plan: "Monthly",
         tags: ["AWS", "Azure", "Oracle"],
@@ -73,7 +73,7 @@ const projects = [
     {
         id: 6,
         title: "Serverless Image Processor",
-        description: "The Eclipse Safe Open Vehicle Core project aims to develop an open-source core stack for Software Defined Vehicles (SDVs), specifically targeting embedded high-performance Electronic Control Units (ECUs).",
+        description: "The CometBid Safe Open Vehicle Core project aims to develop an open-source core stack for Software Defined Vehicles (SDVs), specifically targeting embedded high-performance Electronic Control Units (ECUs).",
         date: "24th October 2024",
         plan: "Monthly",
         tags: ["AWS", "Azure", "Oracle"],
@@ -83,7 +83,7 @@ const projects = [
     {
         id: 7,
         title: "Serverless Image Processor",
-        description: "The Eclipse Safe Open Vehicle Core project aims to develop an open-source core stack for Software Defined Vehicles (SDVs), specifically targeting embedded high-performance Electronic Control Units (ECUs).",
+        description: "The CometBid Safe Open Vehicle Core project aims to develop an open-source core stack for Software Defined Vehicles (SDVs), specifically targeting embedded high-performance Electronic Control Units (ECUs).",
         date: "24th October 2024",
         plan: "Monthly",
         tags: ["AWS", "Azure", "Oracle"],
@@ -93,7 +93,7 @@ const projects = [
     {
         id: 8,
         title: "Serverless Image Processor",
-        description: "The Eclipse Safe Open Vehicle Core project aims to develop an open-source core stack for Software Defined Vehicles (SDVs), specifically targeting embedded high-performance Electronic Control Units (ECUs).",
+        description: "The CometBid Safe Open Vehicle Core project aims to develop an open-source core stack for Software Defined Vehicles (SDVs), specifically targeting embedded high-performance Electronic Control Units (ECUs).",
         date: "24th October 2024",
         plan: "Monthly",
         tags: ["AWS", "Azure", "Oracle"],

@@ -158,7 +158,7 @@ const IndividualContent = () => {
                                     </div>
                                     <div className="login mt-3 text-center">
                                         <p>By creating an account, you are agree to our
-                                            <Link href="/register" className="link-btn">Terms of Service and Privacy Policy.</Link>
+                                            <Link href="/about/privacy-policy" className="link-btn">Terms of Service and Privacy Policy.</Link>
                                         </p>
                                     </div>
                                 </div>

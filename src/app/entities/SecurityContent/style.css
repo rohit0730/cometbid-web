@@ -124,3 +124,26 @@
     color: var(--lightTitle);
     margin-bottom: 0;
 }
+
+
+@media (max-width: 767px) {
+    .report-image img {
+        height: auto;
+        width: 100%;
+        border-radius: 24px;
+        margin-bottom: 16px;
+        margin-top: 16px;
+    }
+
+    .card-advisory {
+        margin-bottom: 16px;
+    }
+
+    .benefits-box-inner {
+        flex-direction: column;
+    }
+
+    .video-box {
+        margin-bottom: 16px;
+    }
+}

@@ -84,12 +84,12 @@ const ProjectResources = [
     {
         id: 1,
         title: "Our Development Process",
-        description: "This document describes the development process for the Eclipse Foundation. In particular, it describes how the Membership at Large, the Board of Directors, other constituents of the Ecosystem, and the Eclipse Management Organisation (EMO) lead, influence, and collaborate with Eclipse Projects."
+        description: "This document describes the development process for the CometBid Foundation. In particular, it describes how the Membership at Large, the Board of Directors, other constituents of the Ecosystem, and the CometBid Management Organisation (EMO) lead, influence, and collaborate with CometBid Projects."
     },
     {
         id: 2,
         title: "Project Handbook",
-        description: "This document describes the development process for the Eclipse Foundation. In particular, it describes how the Membership at Large, the Board of Directors, other constituents of the Ecosystem, and the Eclipse Management Organisation (EMO) lead, influence, and collaborate with Eclipse Projects."
+        description: "This document describes the development process for the CometBid Foundation. In particular, it describes how the Membership at Large, the Board of Directors, other constituents of the Ecosystem, and the CometBid Management Organisation (EMO) lead, influence, and collaborate with CometBid Projects."
     }
 ]
 const ProjectContent = () => {
@@ -97,7 +97,7 @@ const ProjectContent = () => {
     return (
         <>
             {/* Hero Section Start Here */}
-            <section className="hero-section-common project-hero-section position-relative">
+            <section className="hero-section-common project-hero-section position-relative mt-80">
                 <div className="container">
                     <Swiper
                         modules={[Navigation, Pagination]}

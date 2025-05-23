@@ -66,7 +66,7 @@ const community = [
 const ProjectActivityContentpage = () => {
     return (
         <>
-            <section className="banner-section">
+            <section className="hero-section-common position-relative mt-80">
                 <div className="container">
                     <div className="hero-content text-center">
                         <h1 className="hero-title">Project <span>Activity</span>

@@ -68,7 +68,7 @@ const AuthenticationContent: React.FC = () => {
                                         <Button type="submit" className="login-btn">Recover Username</Button>
                                     </div>
                                     <div className="login mt-3 text-center">
-                                        <Link href="/register" className="link-btn">Go back to Sign In.</Link>
+                                        <Link href="/login" className="link-btn">Go back to Sign In.</Link>
                                     </div>
                                 </div>
                             </div>

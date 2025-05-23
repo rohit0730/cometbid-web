@@ -17,7 +17,7 @@ const newsData = [
         image: News1,
         title: "CometBid Announces the Launch of its New Platform",
         description:
-            "The Eclipse Safe Open Vehicle Core project aims to develop an open-source core stack for Software Defined Vehicles (SDVs), specifically targeting embedded high-performance Electronic Control Units (ECUs).",
+            "The CometBid Safe Open Vehicle Core project aims to develop an open-source core stack for Software Defined Vehicles (SDVs), specifically targeting embedded high-performance Electronic Control Units (ECUs).",
         date: "24th October 2024",
         author: "Natalia Loungou",
         link: "/press-releases",
@@ -26,7 +26,7 @@ const newsData = [
         id: 2,
         image: News2,
         title: "Oniro at the Open Harmony Technical Forum",
-        description:"The Eclipse Safe Open Vehicle Core project aims to develop an open-source core stack for Software Defined Vehicles (SDVs), specifically targeting embedded high-performance Electronic Control Units (ECUs).",
+        description:"The CometBid Safe Open Vehicle Core project aims to develop an open-source core stack for Software Defined Vehicles (SDVs), specifically targeting embedded high-performance Electronic Control Units (ECUs).",
         date: "24th October 2024",
         author: "Natalia Loungou",
         link: "/press-releases",
@@ -34,8 +34,8 @@ const newsData = [
     {
         id: 3,
         image: News3,
-        title: "Segger adds SystemView support for Eclipse ThreadXm",
-        description:"The Eclipse Safe Open Vehicle Core project aims to develop an open-source core stack for Software Defined Vehicles (SDVs), specifically targeting embedded high-performance Electronic Control Units (ECUs).",
+        title: "Segger adds SystemView support for CometBid ThreadXm",
+        description:"The CometBid Safe Open Vehicle Core project aims to develop an open-source core stack for Software Defined Vehicles (SDVs), specifically targeting embedded high-performance Electronic Control Units (ECUs).",
         date: "24th October 2024",
         author: "Natalia Loungou",
         link: "/press-releases",
@@ -44,7 +44,7 @@ const newsData = [
         id: 4,
         image: News4,
         title: "System Prompt of the AI-Powered Theia IDE Leaked!?",
-        description:"The Eclipse Safe Open Vehicle Core project aims to develop an open-source core stack for Software Defined Vehicles (SDVs), specifically targeting embedded high-performance Electronic Control Units (ECUs).",
+        description:"The CometBid Safe Open Vehicle Core project aims to develop an open-source core stack for Software Defined Vehicles (SDVs), specifically targeting embedded high-performance Electronic Control Units (ECUs).",
         date: "24th October 2024",
         author: "Natalia Loungou",
         link: "/press-releases",
@@ -53,7 +53,7 @@ const newsData = [
         id: 5,
         image: News5,
         title: "April 2025 Community Newsletter",
-        description:"The Eclipse Safe Open Vehicle Core project aims to develop an open-source core stack for Software Defined Vehicles (SDVs), specifically targeting embedded high-performance Electronic Control Units (ECUs).",
+        description:"The CometBid Safe Open Vehicle Core project aims to develop an open-source core stack for Software Defined Vehicles (SDVs), specifically targeting embedded high-performance Electronic Control Units (ECUs).",
         date: "24th October 2024",
         author: "Natalia Loungou",
         link: "/press-releases",
@@ -142,15 +142,15 @@ const PressReleases = () => {
                                 <div className="box-links">
                                     <div className="link-item">
                                         <div className="link-title">Event</div>
-                                        <div className="link-description">Submit an Eclipse related Event.</div>
+                                        <div className="link-description">Submit an CometBid related Event.</div>
                                     </div>
                                     <div className="link-item">
                                         <div className="link-title">News</div>
-                                        <div className="link-description">Submit an Eclipse related News.</div>
+                                        <div className="link-description">Submit an CometBid related News.</div>
                                     </div>
 
                                     <ul className="link-list">
-                                        <li><Link href="/press-releases">My Submissions</Link></li>
+                                        <li><Link href="#">My Submissions</Link></li>
                                     </ul>
 
                                     <p className="text-black">Please <Link href="/contact">contact</Link> us to request edits to your content.</p>

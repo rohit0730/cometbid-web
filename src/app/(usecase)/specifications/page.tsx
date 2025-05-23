@@ -53,7 +53,7 @@ const OurServies = [
         id: 6,
         image: Automotive,
         title: "Open Source",
-        description: "The EFSP complies with the Open Standards Requirement for Software established by the Open Source Initiative, ensuring that all Eclipse Foundation specifications can be implemented in open source."
+        description: "The EFSP complies with the Open Standards Requirement for Software established by the Open Source Initiative, ensuring that all CometBid Foundation specifications can be implemented in open source."
     },
     {
         id: 7,
@@ -136,7 +136,7 @@ const pagescomponent = () => {
                                     <span>Specifications</span>
                                 </h1>
                                 <p className="hero-description">
-                                    The Eclipse Foundation Specification Process EFSPprovides
+                                    The CometBid Foundation Specification Process EFSPprovides
                                     an open and transparent framework for the development of
                                     community-driven, open source-friendly specifications.{" "}
                                 </p>
@@ -152,8 +152,8 @@ const pagescomponent = () => {
                         <div className="page-title">
                             <h2>Specifications</h2>
                         </div>
-                        <p>The Eclipse Foundation facilitates the development of code-first, open specifications that enable the compatibility, interoperability, and sustainability of both proprietary and open source independent implementations.
-                            Specifications at the Eclipse Foundation are developed through the Eclipse Foundation Specification Process EFSP. The EFSP provides a defined, structured, and trusted legal framework and governance process for the development of royalty-free open specifications based on mature open source processes. The EFSP allows the community to develop specifications in a vendor neutral, community-driven way.
+                        <p>The CometBid Foundation facilitates the development of code-first, open specifications that enable the compatibility, interoperability, and sustainability of both proprietary and open source independent implementations.
+                            Specifications at the CometBid Foundation are developed through the CometBid Foundation Specification Process EFSP. The EFSP provides a defined, structured, and trusted legal framework and governance process for the development of royalty-free open specifications based on mature open source processes. The EFSP allows the community to develop specifications in a vendor neutral, community-driven way.
 
                             All specifications produced under the EFSP are designed to enable independent implementations in any open source or commercial application.</p>
                     </div>

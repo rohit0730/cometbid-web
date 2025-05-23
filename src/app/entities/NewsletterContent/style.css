@@ -85,3 +85,19 @@
 .text-black a {
     color: var(--button);
 }
+
+@media (max-width: 767px) {
+    .newsletter-item {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .community-card {
+        margin-bottom: 20px;
+        height: auto;
+    }
+
+    .community-image {
+        margin-bottom: 20px;
+    }
+}

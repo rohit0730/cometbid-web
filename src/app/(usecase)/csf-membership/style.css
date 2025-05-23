@@ -380,6 +380,10 @@
     .right-item {
         display: none;
     }
+
+    .body-tabs {
+        padding: 30px 16px;
+    }
 }
 
 /* Small devices (tablets) */

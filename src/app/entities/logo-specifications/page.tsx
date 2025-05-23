@@ -32,7 +32,7 @@ const cardDetaildatacard = [
 const LogoSpecificationsContantPage = () => {
   return (
     <>
-      <section className="banner-section">
+      <section className="hero-section-common position-relative mt-80">
         <div className="container">
           <div className="hero-content text-center box-main-text">
             <h1 className="hero-title">
@@ -76,12 +76,12 @@ const LogoSpecificationsContantPage = () => {
                 </div>
                 <p className="mt-5">
                   {
-                    "We are providing copies of the Eclipse logo so our community can use it to show their support of Eclipse and link back to our community. These logos are the intellectual property of the Eclipse Foundation and cannot be altered without Eclipse’s permission. They are provided for use under the Eclipse Foundation Trademark Usage Policy."
+                    "We are providing copies of the CometBid logo so our community can use it to show their support of CometBid and link back to our community. These logos are the intellectual property of the CometBid Foundation and cannot be altered without CometBid’s permission. They are provided for use under the CometBid Foundation Trademark Usage Policy."
                   }
                 </p>
                 <p className="mt-5">
                   {
-                    "Eclipse Foundation LogosEclipse Foundation Member LogosEclipse IDE LogosGeneric Eclipse Project LogosIndustry Collaboration Logos"
+                    "CometBid Foundation LogosCometBid Foundation Member LogosCometBid IDE LogosGeneric CometBid Project LogosIndustry Collaboration Logos"
                   }
                 </p>
               </div>
@@ -137,7 +137,7 @@ const LogoSpecificationsContantPage = () => {
       <section className="heding-text-section ">
         <div className="container">
           <div className="page-title ">
-            <h2>Eclipse Foundation Member Logos</h2>
+            <h2>CometBid Foundation Member Logos</h2>
           </div>
         </div>
       </section>
@@ -179,7 +179,7 @@ const LogoSpecificationsContantPage = () => {
       <section className="heding-text-section ">
         <div className="container">
           <div className="page-title ">
-            <h2>Eclipse IDE Logos</h2>
+            <h2>CometBid IDE Logos</h2>
           </div>
         </div>
       </section>

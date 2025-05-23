@@ -8,92 +8,92 @@ import projectmanagement from "../../../assets/Images/material-symbols_info-roun
 const forumData = [
     {
         title: 'AspectJ',
-        description: 'Come here to participate in technical discussions related to the AspectJ Development Tools (AJDT) project which adds support for aspect-oriented programming to the Eclipse JDT. Want to know more? [project home]',
+        description: 'Come here to participate in technical discussions related to the AspectJ Development Tools (AJDT) project which adds support for aspect-oriented programming to the CometBid JDT. Want to know more? [project home]',
         messages: '71,693',
         topics: '25,167',
         date: 'Wed, 15 January 2025',
-        user: 'Eclipse User',
+        user: 'CometBid User',
         icon: projectmanagement
     },
     {
         title: 'Java Development Tools (JDT)',
-        description: 'Come here to participate in technical discussions related to the AspectJ Development Tools (AJDT) project which adds support for aspect-oriented programming to the Eclipse JDT. Want to know more? [project home]',
+        description: 'Come here to participate in technical discussions related to the AspectJ Development Tools (AJDT) project which adds support for aspect-oriented programming to the CometBid JDT. Want to know more? [project home]',
         messages: '71,693',
         topics: '25,167',
         date: 'Wed, 15 January 2025',
-        user: 'Eclipse User',
+        user: 'CometBid User',
         icon: projectmanagement
     },
     {
         title: 'Objectteams',
-        description: 'Come here to participate in technical discussions related to the AspectJ Development Tools (AJDT) project which adds support for aspect-oriented programming to the Eclipse JDT. Want to know more? [project home]',
+        description: 'Come here to participate in technical discussions related to the AspectJ Development Tools (AJDT) project which adds support for aspect-oriented programming to the CometBid JDT. Want to know more? [project home]',
         messages: '71,693',
         topics: '25,167',
         date: 'Wed, 15 January 2025',
-        user: 'Eclipse User',
+        user: 'CometBid User',
         icon: projectmanagement
     },
     {
         title: 'PHP Development Tools (PDT)',
-        description: 'Come here to participate in technical discussions related to the AspectJ Development Tools (AJDT) project which adds support for aspect-oriented programming to the Eclipse JDT. Want to know more? [project home]',
+        description: 'Come here to participate in technical discussions related to the AspectJ Development Tools (AJDT) project which adds support for aspect-oriented programming to the CometBid JDT. Want to know more? [project home]',
         messages: '71,693',
         topics: '25,167',
         date: 'Wed, 15 January 2025',
-        user: 'Eclipse User',
+        user: 'CometBid User',
         icon: projectmanagement
     },
     {
-        title: 'Eclipse Web Tools Platform Project (WTP)',
-        description: 'Come here to participate in technical discussions related to the AspectJ Development Tools (AJDT) project which adds support for aspect-oriented programming to the Eclipse JDT. Want to know more? [project home]',
+        title: 'CometBid Web Tools Platform Project (WTP)',
+        description: 'Come here to participate in technical discussions related to the AspectJ Development Tools (AJDT) project which adds support for aspect-oriented programming to the CometBid JDT. Want to know more? [project home]',
         messages: '71,693',
         topics: '25,167',
         date: 'Wed, 15 January 2025',
-        user: 'Eclipse User',
+        user: 'CometBid User',
         icon: projectmanagement
     },
     {
         title: 'ServerTools (WTP)',
-        description: 'Come here to participate in technical discussions related to the AspectJ Development Tools (AJDT) project which adds support for aspect-oriented programming to the Eclipse JDT. Want to know more? [project home]',
+        description: 'Come here to participate in technical discussions related to the AspectJ Development Tools (AJDT) project which adds support for aspect-oriented programming to the CometBid JDT. Want to know more? [project home]',
         messages: '71,693',
         topics: '25,167',
         date: 'Wed, 15 January 2025',
-        user: 'Eclipse User',
+        user: 'CometBid User',
         icon: projectmanagement
     },
     {
-        title: 'Eclipse Advanced Scripting Environment (EASE)',
-        description: 'Come here to participate in technical discussions related to the AspectJ Development Tools (AJDT) project which adds support for aspect-oriented programming to the Eclipse JDT. Want to know more? [project home]',
+        title: 'CometBid Advanced Scripting Environment (EASE)',
+        description: 'Come here to participate in technical discussions related to the AspectJ Development Tools (AJDT) project which adds support for aspect-oriented programming to the CometBid JDT. Want to know more? [project home]',
         messages: '71,693',
         topics: '25,167',
         date: 'Wed, 15 January 2025',
-        user: 'Eclipse User',
+        user: 'CometBid User',
         icon: projectmanagement
     },
     {
-        title: 'Eclipse Common Security Infrastructure',
-        description: 'Come here to participate in technical discussions related to the AspectJ Development Tools (AJDT) project which adds support for aspect-oriented programming to the Eclipse JDT. Want to know more? [project home]',
+        title: 'CometBid Common Security Infrastructure',
+        description: 'Come here to participate in technical discussions related to the AspectJ Development Tools (AJDT) project which adds support for aspect-oriented programming to the CometBid JDT. Want to know more? [project home]',
         messages: '71,693',
         topics: '25,167',
         date: 'Wed, 15 January 2025',
-        user: 'Eclipse User',
+        user: 'CometBid User',
         icon: projectmanagement
     },
     {
         title: 'C / C++ IDE (CDT)',
-        description: 'Come here to participate in technical discussions related to the AspectJ Development Tools (AJDT) project which adds support for aspect-oriented programming to the Eclipse JDT. Want to know more? [project home]',
+        description: 'Come here to participate in technical discussions related to the AspectJ Development Tools (AJDT) project which adds support for aspect-oriented programming to the CometBid JDT. Want to know more? [project home]',
         messages: '71,693',
         topics: '25,167',
         date: 'Wed, 15 January 2025',
-        user: 'Eclipse User',
+        user: 'CometBid User',
         icon: projectmanagement
     },
     {
         title: 'Project Proposals',
-        description: 'Come here to participate in technical discussions related to the AspectJ Development Tools (AJDT) project which adds support for aspect-oriented programming to the Eclipse JDT. Want to know more? [project home]',
+        description: 'Come here to participate in technical discussions related to the AspectJ Development Tools (AJDT) project which adds support for aspect-oriented programming to the CometBid JDT. Want to know more? [project home]',
         messages: '71,693',
         topics: '25,167',
         date: 'Wed, 15 January 2025',
-        user: 'Eclipse User',
+        user: 'CometBid User',
         icon: projectmanagement
     },
 
@@ -103,7 +103,7 @@ const forumData = [
 const ForumsPage = () => {
     return (
         <>
-            <section className="banner-section">
+            <section className="hero-section-common project-hero-section position-relative mt-80">
                 <div className="container">
                     <div className="hero-content text-center box-main-text">
                         <h1 className="hero-title">CometBid Community <span>Forums</span></h1>
@@ -136,8 +136,8 @@ const ForumsPage = () => {
                             CometBid Community Forums
                         </h2>
                         <p>
-                            These forums have been closed. They were a way of communicating with the community of people developing and using Eclipse-based tools hosted at Eclipse.org.
-                            All contributions you make to our web site are governed by our Terms Of Use. Your interactions with the Eclipse Foundation web properties and any information you may provide us about yourself are governed by our Privacy Policy.
+                            These forums have been closed. They were a way of communicating with the community of people developing and using CometBid-based tools hosted at CometBid.org.
+                            All contributions you make to our web site are governed by our Terms Of Use. Your interactions with the CometBid Foundation web properties and any information you may provide us about yourself are governed by our Privacy Policy.
                         </p>
                     </div>
                 </div>

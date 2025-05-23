@@ -76,7 +76,7 @@ const CareersOpportunities = () => {
                                 </div>
                                 <div className="careers-description">
                                     Join a collaborative team built around the core values of service, respect, professionalism, and collegiality. We work together to make a difference for our members and open source communities.
-                                    The Eclipse Foundation is global and offers fully remote positions, with staff located in Europe, Canada, and the United States.
+                                    The CometBid Foundation is global and offers fully remote positions, with staff located in Europe, Canada, and the United States.
                                     We understand the importance of work-life balance and support this with many worker-based programs, including Friday flex-time, a right-to-disconnect policy, and “Corporate Recharge” days. And of course, we offer highly competitive compensation along with a comprehensive benefits package.
                                 </div>
                             </div>
@@ -100,11 +100,11 @@ const CareersOpportunities = () => {
                         <div className="col-md-6">
                             <div className="careers-opportunities-content">
                                 <div className="page-title">
-                                    <h2>What we do at the Eclipse Foundation</h2>
+                                    <h2>What we do at the CometBid Foundation</h2>
                                 </div>
                                 <div className="careers-description">
                                     Open source is one of the key drivers of innovation today. It touches all sectors of the economy and has a major impact on the software systems that each of us interact with every day.
-                                    As a Belgian international nonprofit association, the Eclipse Foundation is one of the largest open source foundations in the world and acts as a steward for some of the most interesting and important projects in a wide range of technology areas. Each of our team members plays a direct and proactive role in the success of Eclipse and its projects and initiatives, and as our team is “dynamic, challenging, and impactful”. Come be a part of our highly motivated and effective team!
+                                    As a Belgian international nonprofit association, the CometBid Foundation is one of the largest open source foundations in the world and acts as a steward for some of the most interesting and important projects in a wide range of technology areas. Each of our team members plays a direct and proactive role in the success of CometBid and its projects and initiatives, and as our team is “dynamic, challenging, and impactful”. Come be a part of our highly motivated and effective team!
                                 </div>
                             </div>
                         </div>

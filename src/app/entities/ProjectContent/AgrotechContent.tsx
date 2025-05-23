@@ -61,14 +61,14 @@ const cardData = [
 const AgroTechPage = () => {
     return (
         <>
-            <section className="banner-section banner-agro-tech">
+            <section className="banner-section banner-agro-tech mt-80">
                 <div className="container">
                     <div className="hero-content text-center">
                         <h1 className="hero-title">Agro <span>Tech</span></h1>
                         <p className="hero-description">
                             Our community is innovating on the next generation of cloud native
                             developer tools,
-                            <br /> including the Eclipse IDE which is the leading open
+                            <br /> including the CometBid IDE which is the leading open
                             platform for professional <br /> developers.
                         </p>
                     </div>

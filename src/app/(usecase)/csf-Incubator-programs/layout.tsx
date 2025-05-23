@@ -13,10 +13,11 @@ import Sidebar from "@/component/Sidebar/Sidebar";
 const Layout = ({ children }: { children: React.ReactNode }) => {
     const pathname = usePathname()
     return <>
-        <section className="banner-section">
+        <section className="hero-section-common position-relative mt-80">
             <div className="container">
                 <div className="hero-content text-center">
                     <h1 className="hero-title">CSF Incubator  <span> programs</span></h1>
+                    <p className="hero-description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. <br />Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s,</p>
                 </div>
             </div>
         </section>

@@ -92,6 +92,10 @@
     .card-design-box {
         margin-bottom: 18px;
     }
+
+    .logincontent {
+        padding: 30px 20px;
+    }
 }
 
 /* Small devices (landscape phones) */
@@ -163,6 +167,10 @@
 
     .card-design-box {
         margin-bottom: 18px;
+    }
+
+    .logincontent {
+        padding: 30px 20px;
     }
 }
 

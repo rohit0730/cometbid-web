@@ -13,7 +13,7 @@ const MembershipLevels = () => {
                     <div className="page-title">
                         <h2>Membership Fees</h2>
                     </div>
-                    <p>The Membership Annual Fee Comparison Chart based on membership levels is provided below for illustration purposes only. Please see the CSF Membership Agreement for full details. Note that CSF Working Group Membership fees are separate and in addition to general Eclipse Foundation Membership fees.</p>
+                    <p>The Membership Annual Fee Comparison Chart based on membership levels is provided below for illustration purposes only. Please see the CSF Membership Agreement for full details. Note that CSF Working Group Membership fees are separate and in addition to general CometBid Foundation Membership fees.</p>
                 </div>
 
                 <div className="sec-body">

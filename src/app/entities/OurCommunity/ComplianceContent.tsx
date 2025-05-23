@@ -82,7 +82,7 @@ const ComplianceContent = () => {
                                     <h2>Who are we?</h2>
                                 </div>
                                 <div className="page-description">
-                                    We're bulding cutting-edge IT solutions tailored to your needs. Our expert team ensures seamless integration, security, and 24/7 support. Experience innovation and unmatched customer service.
+                                    We&apos;re bulding cutting-edge IT solutions tailored to your needs. Our expert team ensures seamless integration, security, and 24/7 support. Experience innovation and unmatched customer service.
                                 </div>
                                 <div className="border-button mt-32">
                                     <Link href="/specifications"><button className="btn btn-primary">Learn More<Image src={Arrow} alt="Icon" /></button></Link>

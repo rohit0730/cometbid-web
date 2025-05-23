@@ -102,6 +102,11 @@
     -o-transition: all 0.3s ease-in-out;
 }
 
+.megaMenu ul li a:hover {
+    color: #EEA236;
+    margin-left: 4px;
+}
+
 .megaMenuClose {
     position: absolute;
     top: 20px;

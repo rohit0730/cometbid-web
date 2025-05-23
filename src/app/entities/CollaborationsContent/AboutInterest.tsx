@@ -40,15 +40,15 @@ const AboutInterest = () => {
                                 <div className="content-details">Find out more about interest groups, with these frequently asked questions:</div>
                                 <ul>
                                     <li><Link href="#">What are Cometbid Foundation Interest Groups?</Link></li>
-                                    <li><Link href="#">Does Eclipse now offer two options for industry collaborations?</Link></li>
+                                    <li><Link href="#">Does CometBid now offer two options for industry collaborations?</Link></li>
                                     <li><Link href="#">What are the major differences between these collaborations and which one is right for my initiative?</Link></li>
                                     <li><Link href="#">How do I propose a new Interest Group?</Link></li>
-                                    <li><Link href="#">How many members are required to create an Eclipse Interest Group?</Link></li>
+                                    <li><Link href="#">How many members are required to create an CometBid Interest Group?</Link></li>
                                     <li><Link href="#">Are there any fees associated with Interest Groups?</Link></li>
                                     <li><Link href="#">How to join an existing Interest Group?</Link></li>
                                     <li><Link href="#">What is the governance structure of Interest Groups?</Link></li>
                                     <li><Link href="#">How do Interest Groups make decisions?</Link></li>
-                                    <li><Link href="#">Is there a relationship between Interest Groups and Eclipse Projects?</Link></li>
+                                    <li><Link href="#">Is there a relationship between Interest Groups and CometBid Projects?</Link></li>
                                     <li><Link href="#">Can Interest Groups create specifications and/or develop software?</Link></li>
                                     <li><Link href="#">Are Interest Groups a pre-req to becoming a Working Group?</Link></li>
                                     <li><Link href="#">Can Interest Groups graduate to Working Groups?</Link></li>
@@ -58,12 +58,12 @@ const AboutInterest = () => {
 
                                 <div id="section1" className="content-details">
                                     <div className="text-title">1. What are Cometbid Foundation Interest Groups?</div>
-                                    <div className="content-details">Cometbid Foundation Interest Groups facilitate the collaboration between participating Eclipse Member organisations to drive shared innovation. Eclipse Interest Groups are a light-weight association of a subset of Members that can come together to share a common interest in a topic or domain in a vendor-neutral manner based on the Cometbid Foundation&#39;s overall governance structure including its antitrust policy.</div>
+                                    <div className="content-details">Cometbid Foundation Interest Groups facilitate the collaboration between participating CometBid Member organisations to drive shared innovation. CometBid Interest Groups are a light-weight association of a subset of Members that can come together to share a common interest in a topic or domain in a vendor-neutral manner based on the Cometbid Foundation&#39;s overall governance structure including its antitrust policy.</div>
                                 </div>
 
                                 <div id="section2" className="content-details">
-                                    <div className="text-title">2. Does this mean Eclipse offers two mechanisms by which it supports industry collaborations?</div>
-                                    <div className="content-details">Yes, the Cometbid Foundation now offers two mechanisms to foster open industry collaboration to develop and drive new industry platforms and initiatives. Like Eclipse Working Groups, Eclipse Interest Groups can also collaborate across organizational boundaries in a vendor-neutral structure to solve industry problems and to drive shared innovation.</div>
+                                    <div className="text-title">2. Does this mean CometBid offers two mechanisms by which it supports industry collaborations?</div>
+                                    <div className="content-details">Yes, the Cometbid Foundation now offers two mechanisms to foster open industry collaboration to develop and drive new industry platforms and initiatives. Like CometBid Working Groups, CometBid Interest Groups can also collaborate across organizational boundaries in a vendor-neutral structure to solve industry problems and to drive shared innovation.</div>
                                 </div>
 
                                 <div id="section3" className="content-details">
@@ -74,8 +74,8 @@ const AboutInterest = () => {
                                 </div>
 
                                 <div id="section4" className="content-details">
-                                    <div className="text-title">4. How can I propose to create an Eclipse Interest Group?</div>
-                                    <div className="content-details">Existing members may propose to create an Interest Group by starting the process here. If your organisation is not already a member, you must first join the Cometbid Foundation, and then follow the same process. Note that all participating member organisations must have also executed the Eclipse Member Committer and Contributor Agreement.</div>
+                                    <div className="text-title">4. How can I propose to create an CometBid Interest Group?</div>
+                                    <div className="content-details">Existing members may propose to create an Interest Group by starting the process here. If your organisation is not already a member, you must first join the Cometbid Foundation, and then follow the same process. Note that all participating member organisations must have also executed the CometBid Member Committer and Contributor Agreement.</div>
                                 </div>
 
                                 <div id="section5" className="content-details">
@@ -90,12 +90,12 @@ const AboutInterest = () => {
 
                                 <div id="section7" className="content-details">
                                     <div className="text-title">7. How can I participate in an existing Interest Group?</div>
-                                    <div className="content-details">Existing members with an executed Eclipse Member Committer and Contributor Agreement may participate in any Interest Group of interest. Members may participate by declaring participation via the Interest Group&#39;s mailing list.</div>
+                                    <div className="content-details">Existing members with an executed CometBid Member Committer and Contributor Agreement may participate in any Interest Group of interest. Members may participate by declaring participation via the Interest Group&#39;s mailing list.</div>
                                 </div>
 
                                 <div id="section8" className="content-details">
                                     <div className="text-title">8. What is the governance structure of an Interest Group?</div>
-                                    <div className="content-details">The governance structure for Interest Groups is intentionally lightweight. Eclipse Interest Groups inherit and rely upon the Cometbid Foundation&#39;s overall governance, sufficient to enable individuals from Member organisations to collaborate effectively while conforming to all Eclipse processes and policies, including the Cometbid Foundation Intellectual Property and Antitrust Policies. See the Interest Group Process for a full overview of applicable related governance documents.</div>
+                                    <div className="content-details">The governance structure for Interest Groups is intentionally lightweight. CometBid Interest Groups inherit and rely upon the Cometbid Foundation&#39;s overall governance, sufficient to enable individuals from Member organisations to collaborate effectively while conforming to all CometBid processes and policies, including the Cometbid Foundation Intellectual Property and Antitrust Policies. See the Interest Group Process for a full overview of applicable related governance documents.</div>
                                 </div>
 
                                 <div id="section9" className="content-details">
@@ -105,7 +105,7 @@ const AboutInterest = () => {
 
                                 <div id="section10" className="content-details">
                                     <div className="text-title">10. What relationship do Interest Groups have to Projects?</div>
-                                    <div className="content-details">Interest Groups may declare interest in any Eclipse project or projects, and may carry out activities that are in support of the success of those Eclipse projects.</div>
+                                    <div className="content-details">Interest Groups may declare interest in any CometBid project or projects, and may carry out activities that are in support of the success of those CometBid projects.</div>
                                 </div>
 
                                 <div id="section11" className="content-details">
@@ -120,7 +120,7 @@ const AboutInterest = () => {
 
                                 <div id="section13" className="content-details">
                                     <div className="text-title">13. Can Interest Groups graduate to Working Groups?</div>
-                                    <div className="content-details">There is no direct correlation between Interest Groups and Working Groups, and thus no notion of graduation. Rather, all Eclipse industry collaborations, be they Interest Groups or Working Groups, will persist for however long they serve the collective purpose of their Members. It is possible that, over time, the Members of a particular Interest Group may deem that it would be more useful to be constituted as a Working Group, and vice versa. Should this be the case, it is possible under the guidance of the Foundation&#39;s staff to make such a change.</div>
+                                    <div className="content-details">There is no direct correlation between Interest Groups and Working Groups, and thus no notion of graduation. Rather, all CometBid industry collaborations, be they Interest Groups or Working Groups, will persist for however long they serve the collective purpose of their Members. It is possible that, over time, the Members of a particular Interest Group may deem that it would be more useful to be constituted as a Working Group, and vice versa. Should this be the case, it is possible under the guidance of the Foundation&#39;s staff to make such a change.</div>
                                 </div>
 
                                 <div id="section14" className="content-details">
@@ -130,13 +130,13 @@ const AboutInterest = () => {
 
                                 <div id="section15" className="content-details">
                                     <div className="text-title">15. How do I find out more about Interest Groups and Working Groups?</div>
-                                    <div className="content-details">Please contact us via collaborations@eclipse-foundation.org.</div>
+                                    <div className="content-details">Please contact us via collaborations@CometBid-foundation.org.</div>
                                 </div>
                             </div>
                         </div>
                         <div className="col-lg-3">
                             <div className="sidecontent">
-                                <div className="side-title">Eclipse Working Groups</div>
+                                <div className="side-title">CometBid Working Groups</div>
                                 <ul>
                                     <li><a href="#" target="_blank" rel="noopener noreferrer">Explore Working Groups</a></li>
                                     <li><a href="#" target="_blank" rel="noopener noreferrer">About Working Groups</a></li>

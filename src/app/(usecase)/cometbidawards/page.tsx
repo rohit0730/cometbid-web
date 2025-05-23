@@ -42,7 +42,7 @@ const topCommitters = [
 const Awards = () => {
     return (
         <>
-            <section className="banner-section">
+            <section className="hero-section-common project-hero-section position-relative mt-80">
                 <div className="container">
                     <div className="hero-content text-center">
                         <h1 className="hero-title">CometBid Awards & <span>Recognition</span></h1>

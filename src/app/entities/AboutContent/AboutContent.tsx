@@ -75,7 +75,7 @@ const AboutContent = () => {
                                 <div className="page-title">
                                     <h2>What We Do</h2>
                                 </div>
-                                <p className="about-des">We have a proven track record of enabling community-led and industry-ready open source innovation earned over two decades. We host Adoptium, Software Defined Vehicle, Jakarta EE, Eclipse IDE, and 410+ open source projects, including runtimes, tools, specifications, and frameworks for enterprise, cloud, edge, automotive, AI, embedded, IoT, systems engineering, open processor designs, and many others. Supported by over 360 members globally, the Eclipse Foundation has an established international reach and reputation.</p>
+                                <p className="about-des">We have a proven track record of enabling community-led and industry-ready open source innovation earned over two decades. We host Adoptium, Software Defined Vehicle, Jakarta EE, CometBid IDE, and 410+ open source projects, including runtimes, tools, specifications, and frameworks for enterprise, cloud, edge, automotive, AI, embedded, IoT, systems engineering, open processor designs, and many others. Supported by over 360 members globally, the CometBid Foundation has an established international reach and reputation.</p>
                             </div>
                         </div>
                     </div>
@@ -164,7 +164,7 @@ const AboutContent = () => {
                                 </div>
                                 <div className="card-design-content">
                                     <h3>Join the Community</h3>
-                                    <p>Join the Eclipse Foundation community and become a member of the Eclipse open source community.</p>
+                                    <p>Join the CometBid Foundation community and become a member of the CometBid open source community.</p>
                                 </div>
                             </div>
                         </div>
@@ -175,7 +175,7 @@ const AboutContent = () => {
                                 </div>
                                 <div className="card-design-content">
                                     <h3>Our History</h3>
-                                    <p>Join the Eclipse Foundation community and become a member of the Eclipse open source community.</p>
+                                    <p>Join the CometBid Foundation community and become a member of the CometBid open source community.</p>
                                 </div>
                             </div>
                         </div>
@@ -186,7 +186,7 @@ const AboutContent = () => {
                                 </div>
                                 <div className="card-design-content">
                                     <h3>Join the Community</h3>
-                                    <p>Join the Eclipse Foundation community and become a member of the Eclipse open source community.</p>
+                                    <p>Join the CometBid Foundation community and become a member of the CometBid open source community.</p>
                                 </div>
                             </div>
                         </div>

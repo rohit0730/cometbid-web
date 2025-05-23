@@ -52,7 +52,7 @@ const ProjectResources = [
     {
         id: 2,
         title: "IP Management",
-        description: "We focus on enabling the use of open source technology in commercial software products and services. All projects are licensed under an OSI approved license including the Eclipse Public License (EPL). In addition, the Cometbid Foundation's due diligence process helps to validate the pedigree of the intellectual property contained in our projects."
+        description: "We focus on enabling the use of open source technology in commercial software products and services. All projects are licensed under an OSI approved license including the CometBid Public License (EPL). In addition, the Cometbid Foundation's due diligence process helps to validate the pedigree of the intellectual property contained in our projects."
     },
     {
         id: 3,

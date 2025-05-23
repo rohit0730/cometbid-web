@@ -22,7 +22,7 @@ const cardData = [
   {
     id: 1,
     title: "Customer Service",
-    text: "The primary focus of Eclipse Leadership Group is our customers. Understanding your work environment, the commercial challenges your business needs to master, and building the solutions that will deliver the results you are seeking is core to what we provide for our customers. To achieve this, we have a clear view to put you and how we respond to your needs first - Always.",
+    text: "The primary focus of CometBid Leadership Group is our customers. Understanding your work environment, the commercial challenges your business needs to master, and building the solutions that will deliver the results you are seeking is core to what we provide for our customers. To achieve this, we have a clear view to put you and how we respond to your needs first - Always.",
     img: Cardimg1,
   },
   {
@@ -34,7 +34,7 @@ const cardData = [
   {
     id: 3,
     title: "Sport Interactive",
-    text: "Eclipse Leadership Group recognises that every business culture wants to demonstrate a point of difference from the competition. The products and services we provide our customers are entirely adapted to reflect the unique purpose and results your business wants to achieve",
+    text: "CometBid Leadership Group recognises that every business culture wants to demonstrate a point of difference from the competition. The products and services we provide our customers are entirely adapted to reflect the unique purpose and results your business wants to achieve",
     img: Cardimg3,
   },
 ];
@@ -162,19 +162,19 @@ const cardDetaildatacard = [
     img: blanckimg,
     // icon: LiaLinkedinimg,
   },
- 
+
 ];
 const CTFLeadershipPage = () => {
   return (
     <>
-      <section className="banner-section">
+      <section className="hero-section-common position-relative mt-80">
         <div className="container">
           <div className="hero-content text-center mt-5">
             <h1 className="hero-title">
               CTF Leadership Training and <span> Workshops</span>
             </h1>
             <p className="hero-description">
-              Eclipse Leadership Group is a business People & Culture solutions
+              CometBid Leadership Group is a business People & Culture solutions
               practice. Our objective is to acquire an <br /> extensive
               understanding of your business, before partnering with you to
               customize an effective solution <br /> that will achieve results
@@ -376,31 +376,31 @@ const CTFLeadershipPage = () => {
         </div>
       </div>
       <div className="container mt-5">
-  <div className="row">
-    {cardDetaildatacard.map((card) => (
-      <div className="col-sm-12 col-md-6 col-lg-4 mb-4 d-flex justify-content-center" key={card.id}>
-        <div className="custom-card bg-white shadow-lg rounded-3 p-4 w-100 position-relative overflow-hidden card-box-office">
-          {/* Top Image */}
-          <div className="custom-card-img-box mb-4">
-            <Image src={card.img} alt="Card Image" className="custom-card-img" />
-          </div>
+        <div className="row">
+          {cardDetaildatacard.map((card) => (
+            <div className="col-sm-12 col-md-6 col-lg-4 mb-4 d-flex justify-content-center" key={card.id}>
+              <div className="custom-card bg-white shadow-lg rounded-3 p-4 w-100 position-relative overflow-hidden card-box-office">
+                {/* Top Image */}
+                <div className="custom-card-img-box mb-4">
+                  <Image src={card.img} alt="Card Image" className="custom-card-img" />
+                </div>
 
-          {/* Text Content */}
-          <div className="custom-card-content">
-            <span className="custom-card-subheading text-primary">{card.hedimg}</span>
-            <h3 className="custom-card-heading mt-2">{card.title}</h3>
-            <p className="custom-card-text mt-2">{card.text}</p>
-          </div>
+                {/* Text Content */}
+                <div className="custom-card-content">
+                  <span className="custom-card-subheading text-primary">{card.hedimg}</span>
+                  <h3 className="custom-card-heading mt-2">{card.title}</h3>
+                  <p className="custom-card-text mt-2">{card.text}</p>
+                </div>
 
-          {/* Bottom Right Icon */}
-          {/* <div className="custom-card-icon">
+                {/* Bottom Right Icon */}
+                {/* <div className="custom-card-icon">
             <Image src={card.icon} alt="Icon" className="img-fluid" />
           </div> */}
+              </div>
+            </div>
+          ))}
         </div>
       </div>
-    ))}
-  </div>
-</div>
     </>
   );
 };

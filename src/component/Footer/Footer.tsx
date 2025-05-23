@@ -1,6 +1,6 @@
 "use client";
 
-import React from "react";
+import React, { useState } from "react";
 import { FaFacebookF, FaTwitter, FaGithub, FaGoogle } from "react-icons/fa";
 import './Footer.css';
 import Link from "next/link";
@@ -11,6 +11,16 @@ const Footer = () => {
 
     const handleNavigation = (title: string) => {
         router.push(`/footer-menu?title=${encodeURIComponent(title)}`);
+    };
+
+    const [showBanner, setShowBanner] = useState(false);
+
+    const handleNavigationCookise = () => {
+        setShowBanner(true);
+    };
+
+    const onClose = () => {
+        setShowBanner(false);
     };
     return (
         <>
@@ -60,22 +70,22 @@ const Footer = () => {
                         <div className="quick-links w-15">
                             <h4>Legal</h4>
                             <ul>
-                                <li onClick={() => handleNavigation("Privacy Policy")} style={{ cursor: "pointer" }}>Privacy Policy</li>
-                                <li onClick={() => handleNavigation("Terms of Use")} style={{ cursor: "pointer" }}>Terms of Use</li>
-                                <li onClick={() => handleNavigation("Compliance")} style={{ cursor: "pointer" }}>Compliance</li>
-                                <li onClick={() => handleNavigation("Code of Conduct")} style={{ cursor: "pointer" }}>Code of Conduct</li>
-                                <li onClick={() => handleNavigation("Legal & Trademark")} style={{ cursor: "pointer" }}>Legal & Trademark</li>
-                                <li onClick={() => handleNavigation("Manage Cookies")} style={{ cursor: "pointer" }}>Manage Cookies</li>
+                                <li><Link href="/about/privacy-policy">Privacy Policy</Link></li>
+                                <li><Link href="/about/terms-use">Terms of Use</Link></li>
+                                <li><Link href="/about/compliance">Compliance</Link></li>
+                                <li><Link href="/CodeofConduct">Code of Conduct</Link></li>
+                                <li><Link href="/legal-trademark">Legal & Trademark</Link></li>
+                                <li onClick={handleNavigationCookise} style={{ cursor: "pointer" }}>Manage Cookies</li>
                             </ul>
                         </div>
                         <div className="quick-links w-15">
                             <h4>More</h4>
                             <ul>
                                 <li><Link href="/security">Report a Vulnerability</Link></li>
-                                <li onClick={() => handleNavigation("Report Bugs")} style={{ cursor: "pointer" }}>Report Bugs</li>
-                                <li onClick={() => handleNavigation("Mailing Lists")} style={{ cursor: "pointer" }}>Mailing Lists</li>
-                                <li onClick={() => handleNavigation("Contact Us")} style={{ cursor: "pointer" }}>Contact Us</li>
-                                <li onClick={() => handleNavigation("Support")} style={{ cursor: "pointer" }}>Support</li>
+                                <li><Link href="/https://www.bugzilla.org/">Report Bugs</Link></li>
+                                <li><Link href="/mailing-list">Mailing Lists</Link></li>
+                                <li><Link href="/contact-us">Contact Us</Link></li>
+                                <li><Link href="/support">Support</Link></li>
                             </ul>
                         </div>
                         <div className="quick-links w-20">
@@ -89,6 +99,25 @@ const Footer = () => {
                     </div>
                 </div>
             </div>
+
+            {showBanner && (
+                <div className="cookie-banner">
+                    <div className="cookie-banner__text">
+                        <p>
+                            Some CometBid Foundation pages use cookies to better serve you when you return to the site. You can set your browser to notify you before you receive a cookie or turn off cookies. If you do so, however, some areas of some sites may not function properly. To read CometBid Foundation Privacy Policy click here.
+                            <a href="#">Click Here.</a>
+                        </p>
+                    </div>
+                    <div className="cookie-banner__actions">
+                        <button className="cookie-banner__btn cookie-banner__btn--decline" onClick={onClose}>
+                            Decline
+                        </button>
+                        <button className="cookie-banner__btn cookie-banner__btn--allow" onClick={onClose}>
+                            Allow Cookies
+                        </button>
+                    </div>
+                </div>
+            )}
         </>
     );
 };

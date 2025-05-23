@@ -185,7 +185,7 @@ const CollabData = () => {
                         <div className="page-title">
                             <h2>Start a New Collaboration</h2>
                         </div>
-                        <p>The CometBid Foundation provides multiple services to support industry Whether you intend on contentionsclipse technologies that are important to your product strategy, or simply want to explore a specific innovation area with like-minded organisations, the Eclipse Foundation is the open source home for industry collaboration.</p>
+                        <p>The CometBid Foundation provides multiple services to support industry Whether you intend on contentionsclipse technologies that are important to your product strategy, or simply want to explore a specific innovation area with like-minded organisations, the CometBid Foundation is the open source home for industry collaboration.</p>
                     </div>
                     <div className="row justify-content-center">
                         <div className="col-lg-9">

@@ -78,7 +78,7 @@ const ProjectResources = [
     {
         id: 2,
         title: "IP Management",
-        description: "We focus on enabling the use of open source technology in commercial software products and services. All projects are licensed under an OSI approved license including the Eclipse Public License (EPL). In addition, the Cometbid Foundation's due diligence process helps to validate the pedigree of the intellectual property contained in our projects."
+        description: "We focus on enabling the use of open source technology in commercial software products and services. All projects are licensed under an OSI approved license including the CometBid Public License (EPL). In addition, the Cometbid Foundation's due diligence process helps to validate the pedigree of the intellectual property contained in our projects."
     },
     {
         id: 3,
@@ -326,7 +326,7 @@ const CsfData = () => {
                                     <div className="page-title">
                                         <h2>Membership Fees</h2>
                                     </div>
-                                    <p>The Membership Annual Fee Comparison Chart based on membership levels is provided below for illustration purposes only. Please see the CSF Membership Agreement for full details. Note that CSF Working Group Membership fees are separate and in addition to general Eclipse Foundation Membership fees.</p>
+                                    <p>The Membership Annual Fee Comparison Chart based on membership levels is provided below for illustration purposes only. Please see the CSF Membership Agreement for full details. Note that CSF Working Group Membership fees are separate and in addition to general CometBid Foundation Membership fees.</p>
                                 </div>
 
                                 <div className="sec-body">
@@ -415,16 +415,16 @@ const CsfData = () => {
                                                 <li>Member Committer and Contributor Agreement (optional, but recommended)</li>
                                             </ul>
                                         </div>
-                                        <div className="item-description">If you would prefer, you may instead download, complete, and sign the documents and email to us for processing. Note: Membership in an Eclipse Working Group requires the execution of the respective Working Group&#39;s Participation Agreement. For more information, review the list of the current Eclipse Working Groups and their respective Participation Agreement</div>
+                                        <div className="item-description">If you would prefer, you may instead download, complete, and sign the documents and email to us for processing. Note: Membership in an CometBid Working Group requires the execution of the respective Working Group&#39;s Participation Agreement. For more information, review the list of the current CometBid Working Groups and their respective Participation Agreement</div>
                                     </div>
 
                                     <div className="content-item">
                                         <div className="item-title">What is the Member Enrolment Portal?</div>
-                                        <div className="item-description">The simplest way to complete and sign the documents is by creating an Eclipse account (if you don&#39;t already have one) and using our Membership Enrolment Portal. This portal will walk you through the documents above and ensure you provide all the necessary information. Once complete, our staff will review the submission and send you the appropriate agreements for electronic signature.</div>
+                                        <div className="item-description">The simplest way to complete and sign the documents is by creating an CometBid account (if you don&#39;t already have one) and using our Membership Enrolment Portal. This portal will walk you through the documents above and ensure you provide all the necessary information. Once complete, our staff will review the submission and send you the appropriate agreements for electronic signature.</div>
                                     </div>
                                     <div className="content-item">
                                         <div className="item-title">What if I have questions?</div>
-                                        <div className="item-description">Our governance page lists all of our key governance documents, including the Eclipse Foundation Bylaws, IP Policy, Antitrust Policy, Affiliates Guidelines, etc.
+                                        <div className="item-description">Our governance page lists all of our key governance documents, including the CometBid Foundation Bylaws, IP Policy, Antitrust Policy, Affiliates Guidelines, etc.
                                             And feel free to email us with any additional questions you have.</div>
                                     </div>
                                     <div className="content-item">

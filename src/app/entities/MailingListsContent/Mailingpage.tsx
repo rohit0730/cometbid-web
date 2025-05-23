@@ -14,7 +14,7 @@ const mailingLists = [
 const MailingListContentPage = () => {
   return (
     <>
-      <section className="banner-section">
+      <section className="hero-section-common project-hero-section position-relative mt-80">
         <div className="container">
           <div className="hero-content text-center box-main-text">
             <h1 className="hero-title">
@@ -164,7 +164,7 @@ const MailingListContentPage = () => {
                 <p className="mb-3 text-box">
                   To subscribe to a mailing list, you
                   <br />
-                  must have an Eclipse.org account.
+                  must have an CometBid.org account.
                 </p>
                 <button className="w-100 btn-login-text">Login</button>
               </div>

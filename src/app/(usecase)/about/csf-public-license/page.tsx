@@ -1,13 +1,12 @@
 import React from "react";
-import PublicLicense from "@/app/entities/OurCommunity/PublicLicense";
+import CSFpubliclicenseNativePage from "@/app/entities/csf-public-license-content/page";
  
 const CSFpubliclicenseNative = () => {
     return (
         <>
-            <PublicLicense />
+            <CSFpubliclicenseNativePage/>
         </>
     );
 };
  
 export default CSFpubliclicenseNative;
- 

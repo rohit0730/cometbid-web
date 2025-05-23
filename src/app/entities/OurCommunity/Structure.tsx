@@ -90,8 +90,8 @@ const Structure = () => {
                                 <div className="page-title">
                                     <h2>CTF Community Staff</h2>
                                 </div>
-                                <p>{"The Eclipse Foundation is fortunate to have some very talented people working full-time on behalf of the Eclipse community. Below is the list of our staff."}</p>
-                                <p>{"Eclipse email addresses all follow the firstname.lastname@cometbid-foundation.org convention."}</p>
+                                <p>{"The CometBid Foundation is fortunate to have some very talented people working full-time on behalf of the CometBid community. Below is the list of our staff."}</p>
+                                <p>{"CometBid email addresses all follow the firstname.lastname@cometbid-foundation.org convention."}</p>
                             </div>
 
                             <div className="staff-list-wrapper">

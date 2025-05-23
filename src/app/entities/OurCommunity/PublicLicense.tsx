@@ -8,7 +8,7 @@ import Sidebar from "@/component/Sidebar/Sidebar";
 const services = [
     {
         id: 1,
-        title: "Terms and Conditions of Use for the Eclipse Foundation Website and Related Services",
+        title: "Terms and Conditions of Use for the CometBid Foundation Website and Related Services",
         description: [
             "As used herein, the term “you” or “your” means the individual accessing any CT Foundation website or online resource that contains a reference or link to these Terms of Use, including in the first place at https://www.CT.org/ as well as those websites of its industry collaborations and any other website of the CT Group (“Website”), as well as any person or entity which has granted to such individual the authority to enter into this agreement on its behalf. By accessing, browsing, or using this Website, you acknowledge that you have read, understand, and agree to be bound by these terms.",
             "This Website and related services are made available by the CT Foundation AISBL , and/or its affiliated CT Foundation organisations, including CT Foundation Canada, CT.org Foundation, Inc, and CT Foundation Europe GmbH (collectively, “CT Foundation”). All software, documentation, information and/or other materials provided on and through this Website (“Content”) and all of the related services offered by the CT Foundation may be used solely under the following terms and conditions (“Terms of Use”).",

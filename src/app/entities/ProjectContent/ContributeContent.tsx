@@ -3,11 +3,11 @@ import React from "react";
 import ContributeContentPage from "./ContributePage";
 ;
 const ContributeContent = () => {
-    return (
-      <>
-      <ContributeContentPage/>
-      </>
-    );
+  return (
+    <>
+      <ContributeContentPage />
+    </>
+  );
 };
 
 export default ContributeContent;

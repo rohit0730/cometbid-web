@@ -66,7 +66,7 @@ const LoginContent = () => {
                                         </div>
                                     </div>
                                     <div className="login mt-3 text-center">
-                                        <p>Don&apos;t have an account? <Link href="/register" className="link-btn">Sign Up</Link></p>
+                                        <p>Don&apos;t have an account? <Link href="/individual-account" className="link-btn">Sign Up</Link></p>
                                     </div>
                                 </div>
                             </div>
